@@ -39,8 +39,9 @@ public class LessonNewTask{
         return new LessonNewTask();
     }
 
-    public void uploadLesson(){
-
+    public void uploadLesson(String name, String path){
+UploadLessonTask uploadLessonTask = new UploadLessonTask(name, path);
+        uploadLessonTask.execute();
     }
 
 
