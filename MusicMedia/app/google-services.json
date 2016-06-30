@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "490178163415",
+    "firebase_url": "https://musicmedia-f3b8d.firebaseio.com",
+    "project_id": "musicmedia-f3b8d",
+    "storage_bucket": "musicmedia-f3b8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490178163415:android:66f4de04992864ec",
+        "android_client_info": {
+          "package_name": "nortti.ru.musicmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490178163415-prdcag7n3kkb69hk3tt9orbvt6cqcvrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY7Sh3Ycy1m_2PXzL8s_aWiN9_Va8Nph8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
