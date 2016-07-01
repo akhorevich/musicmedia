@@ -10,7 +10,7 @@ public class LessonsActivity extends AppCompatActivity implements MainActivity.O
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_lesson);
         LessonNewTask lessonNewTask = new LessonNewTask();
-        lessonNewTask.uploadLesson();
+        lessonNewTask.uploadLesson("Lesson1","Colors");
 
     }
     @Override
